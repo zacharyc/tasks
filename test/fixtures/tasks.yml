@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  status_id: 1
+  parent_id: 1
+  project_id: 1
+  area_id: 1
+  note_id: 1
+
+two:
+  name: MyString
+  status_id: 1
+  parent_id: 1
+  project_id: 1
+  area_id: 1
+  note_id: 1
